@@ -70,3 +70,10 @@ Upon extraction, the data will be cleaned in Python and then loaded to a MySQL d
 
 <b>SQL</b>
 - MySQL
+
+## Process
+Check data types.<br>
+Check for duplicates and missing values.<br>
+Check the column labels.<br>
+Load the cleaned dataset to the database.<br>
+Verify the structure, schema, and metadata of the database and tables.
