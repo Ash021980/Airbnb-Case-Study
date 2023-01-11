@@ -1,0 +1,31 @@
+id,host_id,neighborhood_group,neighborhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,total_host_listings,availability_365,reviews_in_last_yr
+40560656,273324213,Brooklyn,Williamsburg,40.72096,-73.9586,Hotel room,0,1,0,1,0,0
+41740615,268417148,Manhattan,Midtown,40.74459,-73.98574,Hotel room,0,1,44,1,0,13
+41740622,269311462,Manhattan,Upper East Side,40.76442,-73.96303,Hotel room,0,1,4,1,0,3
+42065543,307634016,Manhattan,Midtown,40.74444,-73.9892,Hotel room,0,1,0,1,0,0
+42065545,310429455,Manhattan,Midtown,40.75917,-73.96926,Hotel room,0,30,0,1,0,0
+42065547,308721299,Manhattan,Hell's Kitchen,40.76404,-73.99478,Hotel room,0,30,36,1,0,21
+42065555,309714886,Brooklyn,Williamsburg,40.71523,-73.95908,Hotel room,0,30,1,1,0,0
+42065562,307633956,Manhattan,Financial District,40.70958,-74.00874,Hotel room,0,1,0,1,0,0
+42065563,309772430,Bronx,Mott Haven,40.81513,-73.91602,Hotel room,0,30,0,1,0,0
+42065564,314151200,Manhattan,Financial District,40.70462,-74.01027,Hotel room,0,1,39,9,0,21
+42279171,265458818,Manhattan,Chinatown,40.7161,-73.99518,Hotel room,0,1,0,1,0,0
+42228997,314197504,Manhattan,Lower East Side,40.72186,-73.99278,Hotel room,0,30,0,1,0,0
+42384501,262458398,Manhattan,Chelsea,40.74793,-73.99117,Hotel room,0,1,83,1,0,10
+43078550,334334264,Manhattan,Kips Bay,40.74097,-73.98339,Hotel room,0,30,0,1,0,0
+43078552,342053968,Manhattan,Lower East Side,40.72214,-73.98857,Hotel room,0,1,65,1,0,5
+43035720,318559292,Manhattan,Midtown,40.75028,-73.98547,Hotel room,0,30,0,1,0,0
+43205598,335389657,Manhattan,Midtown,40.76448,-73.98055,Hotel room,0,1,9,1,0,0
+43247386,335072254,Manhattan,Hell's Kitchen,40.76756,-73.98312,Hotel room,0,1,19,1,0,8
+43247472,324955773,Manhattan,Midtown,40.76085,-73.96938,Hotel room,0,30,42,1,0,18
+43247631,318788301,Manhattan,Hell's Kitchen,40.76175,-73.9882,Hotel room,0,30,0,1,0,0
+44567521,360662584,Manhattan,East Village,40.72743,-73.99136,Hotel room,0,1,8,1,0,0
+46059074,373324108,Manhattan,Theater District,40.76236802767936,-73.98567576308122,Hotel room,0,1,0,1,0,0
+46251446,374516933,Manhattan,Lower East Side,40.71973234586191,-73.99399567745608,Hotel room,0,1,161,1,0,76
+46087899,373522899,Brooklyn,Williamsburg,40.72121028115409,-73.95720895295804,Hotel room,0,1,5,1,0,5
+46336133,375044940,Manhattan,Chelsea,40.755322460000365,-74.00177192695872,Hotel room,0,1,0,1,0,0
+46723973,376877842,Manhattan,Hell's Kitchen,40.76570813510044,-73.99557484315994,Hotel room,0,1,1,1,0,0
+48089897,261016212,Brooklyn,Bedford-Stuyvesant,40.69678652182169,-73.95800486354727,Hotel room,0,1,0,1,0,0
+48325676,390077597,Manhattan,Upper West Side,40.78162874478345,-73.98200357251557,Hotel room,0,1,3,1,0,3
+48417136,390810530,Manhattan,Midtown,40.74683579845228,-73.98269933083705,Hotel room,0,1,52,1,0,45
+45861040,371797355,Queens,Rockaway Park,40.5811,-73.83028,Hotel room,0,1,15,1,0,4
