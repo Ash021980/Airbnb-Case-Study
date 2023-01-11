@@ -29,3 +29,44 @@ Recommendations including report and dashboard are to be delivered by Jan. 12, 2
 - Listings located in Manhattan will have higher average prices.
 - Entire home/apt listings should have higher prices compared to single rooms.
 - Having more reviews implies higher occupancy or demand which should correlate to its price.
+
+### Feature Group Categories
+<b>Location:</b>
+- Does location affect price?
+- Downtown? Proximity to waterfront? Attractions?
+<br>
+
+<b>Size:</b>
+- Does the size of the rental have any effect?
+<br>
+
+<b>Occupancy:</b>
+- Does availability affect prices?
+- What the minimum nights allowed?
+<br>
+
+<b>Quality:</b>
+- Does the number and sentiment of reviews affect the listing price?
+
+## Prepare
+Establish what data needs to be collected, how it will be stored, and what tools will be used to collect, store, clean, analyze, visualize, and share my insights.
+
+### Data Needed
+Current and historical Airbnb listings data.
+<br>
+How will the data be collected and stored?<br>
+Dataset is internal and is available for download [here](http://insideairbnb.com/get-the-data/) via Inside Airbnb.<br>
+Upon extraction, the data will be cleaned in Python and then loaded to a MySQL database.<br>
+<br>
+### Tools
+<b>Python</b>
+- Jupyter Notebooks
+- Pandas
+- Plotly
+- SQLAlchemy
+- os
+- pymysql
+- Ipython-sql (SQL Magic)
+
+<b>SQL</b>
+- MySQL
