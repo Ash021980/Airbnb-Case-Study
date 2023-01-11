@@ -83,7 +83,7 @@ Uncover trends and patterns in the data that will help vendors, and Airbnb, maxi
 *Graph images located [here](https://github.com/Ash021980/Airbnb-Case-Study/tree/main/Images).*
 
 ## Share & Act
-Design a presentation and dashboard to be delivered to stakeholders.  Report will summarize the data analysis steps I undertook along with an explanation.  My recommendations will be used to design a feature for renters that suggests a listing price based on the features of the rental.
+Design a presentation and dashboard to be delivered to stakeholders.  Report will summarize the data analysis steps I undertook along with an explanation.  My recommendations will be used to design a feature for renters that suggests a listing price based on the features of the rental.  *Html file [here]()*
 ### Tools
 <b>Python</b>
 - Jupyter Notebooks
