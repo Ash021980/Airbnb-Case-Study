@@ -7,7 +7,7 @@ Coursera Research Project
 ### Overview
 The team at Airbnb is trying to increase their profits from their rentals across the US. To do this, they want to explore what factors encourage renters to pay more for a particular listing. Is it the location? Walkability? The property's ratings? 
 
-They want you to provide insights and recommendations by analyzing a dataset containing information on current rental prices, rental locations, and a slew of other details. The team will use your analysis in the future to provide property owners with a suggested price to charge renters. This feature will help hosts (and Airbnb) maximize their profits from each listing. 
+They want me to provide insights and recommendations by analyzing a dataset containing information on current rental prices, rental locations, and a slew of other details. The team will use my analysis in the future to provide property owners with a suggested price to charge renters. This feature will help hosts (and Airbnb) maximize their profits from each listing. 
 
 ### Business Objectives
 - Explore the prices of current Airbnb listings
@@ -15,11 +15,9 @@ They want you to provide insights and recommendations by analyzing a dataset con
 - Provide analytic insights and data-driven recommendations
 
 ### Business Task
-My task, as an entry-level analyst, will be to conduct an exploratory data analysis to investigate if there are any patterns or themes that may influence the pricing of rentals on Airbnb. To do this, you will load, clean, process, analyze, and visualize data. You will also pose questions, and seek to answer them meaningfully using the dataset provided.
+My task, as an entry-level analyst, will be to conduct an exploratory data analysis to investigate if there are any patterns or themes that may influence the pricing of rentals on Airbnb. To do this, I will load, clean, process, analyze, and visualize data. I will also pose questions, and seek to answer them meaningfully using the dataset provided.
 
-In this project, we'll use data from Airbnb's New York City dataset (attached below); however, to keep this project unique and open-ended, please feel free to choose whichever major city and datasets you'd prefer - which can be found from Inside Airbnb data.
-
-After you perform your analysis, you will share your findings.
+In this project, we'll use data from Airbnb's New York City dataset (attached below).
 
 ### Timeframe
 Recommendations including report and dashboard are to be delivered by Jan. 12, 2023
@@ -84,7 +82,7 @@ Uncover trends and patterns in the data that will help vendors, and Airbnb, maxi
 
 ## Share & Act
 Design a presentation and dashboard to be delivered to stakeholders.  Report will summarize the data analysis steps I undertook along with an explanation.  My recommendations will be used to design a feature for renters that suggests a listing price based on the features of the rental.<br>
-*Html file [here](https://github.com/Ash021980/Airbnb-Case-Study/tree/main/Share)*
+*Link to the Tableau dashboard and Html file [here](https://github.com/Ash021980/Airbnb-Case-Study/tree/main/Share)*
 
 ### Tools
 <b>Python</b>
